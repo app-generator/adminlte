@@ -38,7 +38,7 @@ $ php -S localhost:9999
 
 <br />
 
-## [AdminLTE Jinja2](https://jinja2-adminlte.appseed.us/)
+## [AdminLTE - Jinja2](https://jinja2-adminlte.appseed.us/)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
@@ -59,7 +59,7 @@ $ php -S localhost:9999
 
 <br />
 
-# [AdminLTE - Flask Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)
+## [AdminLTE - Flask Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **[AppSeed](https://appseed.us?ref=gh)** - Features:
 
@@ -84,7 +84,7 @@ $ php -S localhost:9999
 
 <br />
 
-# [AdminLTE - Django Dashboard](https://appseed.us/admin-dashboards/django-dashboard-adminlte)
+## [AdminLTE - Django Dashboard](https://appseed.us/admin-dashboards/django-dashboard-adminlte)
 
 > **Open-Source Admin Dashboard** coded in **Django Framework** by **[AppSeed](https://appseed.us?ref=gh)** - Features:
 
