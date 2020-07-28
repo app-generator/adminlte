@@ -5,7 +5,7 @@
 > Links
 
 - [AdminLTE](https://adminlte.io/) - official product page
-- [AdminLTE Demo](https://adminlte.io/themes/AdminLTE/) - official product page
+- [AdminLTE Demo](https://adminlte.io/themes/AdminLTE/) - LIVE deploy (flat HTML files)
 - [AdminLTE Sources](https://github.com/ColorlibHQ/AdminLTE) - published on Github
 
 <br />
