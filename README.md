@@ -18,7 +18,8 @@ The HTML files can be downloaded directly from the public repository and the pro
 
 ```bash
 $ # Download sources
-$ git clone https://github.com/ColorlibHQ/AdminLTE.git
+$ git clone https://github.com/ColorlibHQ/AdminLTE.git adminlte-html
+$ adminlte-html
 $ 
 $ # Install modules
 $ yarn
