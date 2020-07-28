@@ -54,7 +54,7 @@ $ php -S localhost:9999
 
 <br />
 
-![Jinja2 AdminLTE - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja2-adminlte/master/media/jinja2-adminlte-screen.png)
+![AdminLTE - Migrated to Jinja2 by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja2-adminlte/master/media/jinja2-adminlte-screen.png)
 
 <br />
 
@@ -79,7 +79,7 @@ $ php -S localhost:9999
 
 <br />
 
-![Flask Dashboard AdminLTE - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-adminlte/master/media/flask-dashboard-adminlte-screen.png)
+![AdminLTE - Flask Dashboard provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-adminlte/master/media/flask-dashboard-adminlte-screen-4.png)
 
 <br />
 
@@ -103,7 +103,7 @@ $ php -S localhost:9999
 
 <br />
 
-![Django Dashboard AdminLTE - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-adminlte/master/media/django-dashboard-adminlte-screen.png)
+![AdminLTE - Django Dashboard provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-dashboard-adminlte/master/media/django-dashboard-adminlte-screen.png)
 
 <br />
 
