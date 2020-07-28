@@ -10,7 +10,7 @@
 
 <br />
 
-## AdminLTE - Html Files
+## AdminLTE - HTML Files
 
 The HTML files can be downloaded directly from the public repository and the project, actively supported by ColorLib plus 150 open-source enthusiasts.
 
