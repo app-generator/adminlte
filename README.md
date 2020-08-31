@@ -4,6 +4,8 @@
 
 **AdminLTE** is a popular open source template for admin dashboards and control panels. It is a responsive HTML template that is based on the Bootstrap CSS framework. It utilizes all of the Bootstrap components in its design and re-styles many commonly used plugins to create a consistent design that can be used as a user interface for backend applications. AdminLTE is based on a modular design, which allows it to be easily customized and built upon. 
 
+<br />
+
 > Links
 
 - [AdminLTE](https://appseed.us/adminlte) - An index with more resources provided by AppSeed
