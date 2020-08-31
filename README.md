@@ -13,7 +13,7 @@
 
 <br />
 
-## AdminLTE - HTML Files
+## [AdminLTE](https://appseed.us/adminlte) - HTML Files
 
 The HTML files can be downloaded directly from the public repository and the project, actively supported by ColorLib plus 150 open-source enthusiasts.
 
