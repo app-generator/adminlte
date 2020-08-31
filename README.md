@@ -1,12 +1,15 @@
-# [AdminLTE](https://adminlte.io/) Free Resources
+# [AdminLTE](https://appseed.us/adminlte)
 
-**[AdminLTE](https://adminlte.io/)** is a fully responsive administration template. Based on Bootstrap 4.4 framework and also the JS/jQuery plugin. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops
+> A curated list with free resources provided by AppSeed on top of AdminLTE, the iconic design crafted by ColorLib
+
+**AdminLTE** is a popular open source template for admin dashboards and control panels. It is a responsive HTML template that is based on the Bootstrap CSS framework. It utilizes all of the Bootstrap components in its design and re-styles many commonly used plugins to create a consistent design that can be used as a user interface for backend applications. AdminLTE is based on a modular design, which allows it to be easily customized and built upon. 
 
 > Links
 
-- [AdminLTE](https://adminlte.io/) - official product page
-- [AdminLTE Demo](https://adminlte.io/themes/AdminLTE/) - LIVE deploy (flat HTML files)
-- [AdminLTE Sources](https://github.com/ColorlibHQ/AdminLTE) - published on Github
+- [AdminLTE](https://appseed.us/adminlte) - An index with more resources provided by AppSeed
+- [AdminLTE - Jinja Template](https://github.com/app-generator/jinja2-adminlte) - AdminLTE available in Jinja, the well-known template system used in Python apps
+- [AdminLTE - Flask Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - a simple Flask starter coded on top of AdminLTE
+- [AdminLTE - Django Dashboard](https://appseed.us/admin-dashboards/django-dashboard-adminlte) - a Django Dashboard coded with basic modules on top of AdminLTE
 
 <br />
 
@@ -38,15 +41,14 @@ $ php -S localhost:9999
 
 <br />
 
-## [AdminLTE - Jinja2](https://jinja2-adminlte.appseed.us/)
+## [AdminLTE](https://appseed.us/adminlte) - Jinja Template
 
-> Template Theme provided by [AppSeed](https://appseed.us) - Features:
+> Template Theme provided as a simple Flask project under the MIT License on top of AdminLTE design. 
 
 - UI Kit: **AdminLTE** by **ColorLib**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - **[MIT License](https://github.com/app-generator/license-mit)**
-- Free support via **Github** issues tracker
-- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup) - 24/7 LIVE Service.
 
 > Links
 
@@ -59,19 +61,18 @@ $ php -S localhost:9999
 
 <br />
 
-## [AdminLTE - Flask Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)
+## [AdminLTE](https://appseed.us/adminlte) - Flask Dashboard
 
-> **Open-Source Admin Dashboard** coded in **Flask Framework** by **[AppSeed](https://appseed.us?ref=gh)** - Features:
+> Open-Source admin dashboard coded in **Flask** with basic modules database and deployment scripts on top of AdminLTE design.
 
+- UI Kit: **AdminLTE** provided by **ColorLib**
 - SQLite, PostgreSQL, SQLAlchemy ORM
 - Alembic (DB schema migrations)
 - Modular design with **Blueprints**
 - Session-Based authentication (via **flask_login**)
-- Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx, Heroku
 - **[MIT License](https://github.com/app-generator/license-mit)**
-- Free support via **Github** issues tracker
-- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup) - 24/7 LIVE Service.
 
 > Links
 
@@ -84,9 +85,9 @@ $ php -S localhost:9999
 
 <br />
 
-## [AdminLTE - Django Dashboard](https://appseed.us/admin-dashboards/django-dashboard-adminlte)
+## [AdminLTE](https://appseed.us/adminlte) - Django Dashboard
 
-> **Open-Source Admin Dashboard** coded in **Django Framework** by **[AppSeed](https://appseed.us?ref=gh)** - Features:
+> Open-Source admin dashboard coded in **Django** with basic modules database and deployment scripts on top of AdminLTE design.
 
 - UI Kit: **AdminLTE** provided by **ColorLib**
 - UI-Ready app, SQLite Database, Django Native ORM
@@ -94,8 +95,7 @@ $ php -S localhost:9999
 - Session-Based Authentication, Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
 - **[MIT License](https://github.com/app-generator/license-mit)**
-- Free support via **Github** issues tracker
-- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup) - 24/7 LIVE Service.
 
 > Links
 
@@ -109,7 +109,7 @@ $ php -S localhost:9999
 <br />
 
 ---
-[AdminLTE](https://adminlte.io/) Free Resources - Provided by **[AppSeed](https://appseed.us?ref=gh)**
+[AdminLTE](https://appseed.us/adminlte) Free Resources - Provided by **[AppSeed](https://appseed.us?ref=gh)**
 
 
 
