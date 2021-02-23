@@ -9,9 +9,9 @@
 > Links
 
 - [AdminLTE](https://appseed.us/adminlte) - An index with more resources provided by AppSeed
-- [AdminLTE - Jinja Template](https://github.com/app-generator/jinja2-adminlte) - AdminLTE available in Jinja, the well-known template system used in Python apps
-- [AdminLTE - Flask Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - a simple Flask starter coded on top of AdminLTE
-- [AdminLTE - Django Dashboard](https://appseed.us/admin-dashboards/django-dashboard-adminlte) - a Django Dashboard coded with basic modules on top of AdminLTE
+- [AdminLTE - Jinja](https://github.com/app-generator/jinja-adminlte) - AdminLTE available in Jinja, the well-known template system used in Python apps
+- [AdminLTE - Flask](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - a simple Flask starter coded on top of AdminLTE
+- [AdminLTE - Django](https://appseed.us/admin-dashboards/django-dashboard-adminlte) - a Django Dashboard coded with basic modules on top of AdminLTE
 
 <br />
 
@@ -54,8 +54,8 @@ $ php -S localhost:9999
 
 > Links
 
-- [AdminLTE Jinja2 Sources](https://github.com/app-generator/jinja2-adminlte) - released un the the MIT License on Github
-- [AdminLTE Jinja2 Demo](https://jinja2-adminlte.appseed.us/) - LIVE Jinja project
+- [AdminLTE Jinja](https://github.com/app-generator/jinja-adminlte) - released un the the MIT License on Github
+- [AdminLTE Jinja - Demo](https://adminlte-jinja.appseed-srv1.com/) - LIVE Jinja project
 
 <br />
 
@@ -67,19 +67,16 @@ $ php -S localhost:9999
 
 > Open-Source admin dashboard coded in **Flask** with basic modules database and deployment scripts on top of AdminLTE design.
 
-- UI Kit: **AdminLTE** provided by **ColorLib**
 - SQLite, PostgreSQL, SQLAlchemy ORM
-- Alembic (DB schema migrations)
 - Modular design with **Blueprints**
 - Session-Based authentication (via **flask_login**)
 - Deployment scripts: Docker, Gunicorn / Nginx, Heroku
-- **[MIT License](https://github.com/app-generator/license-mit)**
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup) - 24/7 LIVE Service.
 
 > Links
 
-- [AdminLTE - Flask Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-adminlte?ref=gh) - Product page
-- [AdminLTE - Flask Dashboard Demo](https://flask-dashboard-adminlte.appseed.us/) - LIVE App
+- [AdminLTE - Flask](https://appseed.us/admin-dashboards/flask-dashboard-adminlte) - product page
+- [AdminLTE - Flask Demo](https://adminlte-flask.appseed-srv1.com/) - LIVE App
 
 <br />
 
@@ -91,18 +88,16 @@ $ php -S localhost:9999
 
 > Open-Source admin dashboard coded in **Django** with basic modules database and deployment scripts on top of AdminLTE design.
 
-- UI Kit: **AdminLTE** provided by **ColorLib**
 - UI-Ready app, SQLite Database, Django Native ORM
 - Modular design, clean code-base
 - Session-Based Authentication, Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
-- **[MIT License](https://github.com/app-generator/license-mit)**
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup) - 24/7 LIVE Service.
 
 > Links
 
-- [AdminLTE - Django Dashboard](https://appseed.us/admin-dashboards/django-dashboard-adminlte?ref=gh) - Product page
-- [AdminLTE - Django Dashboard Demo](https://django-dashboard-adminlte.appseed.us/) - LIVE App
+- [AdminLTE - Django](https://appseed.us/admin-dashboards/django-dashboard-adminlte?ref=gh) - product page
+- [AdminLTE - Django Demo](https://adminlte-django.appseed-srv1.com/) - LIVE App
 
 <br />
 
