@@ -43,7 +43,7 @@ $ php -S localhost:9999
 
 <br />
 
-## [AdminLTE](https://appseed.us/adminlte) - Jinja Template
+## [AdminLTE - Jinja](https://github.com/app-generator/jinja-adminlte)
 
 > Template Theme provided as a simple Flask project under the MIT License on top of AdminLTE design. 
 
@@ -63,7 +63,7 @@ $ php -S localhost:9999
 
 <br />
 
-## [AdminLTE](https://appseed.us/adminlte) - Flask Dashboard
+## [AdminLTE - Flask](https://appseed.us/admin-dashboards/flask-dashboard-adminlte)
 
 > Open-Source admin dashboard coded in **Flask** with basic modules database and deployment scripts on top of AdminLTE design.
 
@@ -84,7 +84,7 @@ $ php -S localhost:9999
 
 <br />
 
-## [AdminLTE](https://appseed.us/adminlte) - Django Dashboard
+## [AdminLTE - Django](https://appseed.us/admin-dashboards/django-dashboard-adminlte)
 
 > Open-Source admin dashboard coded in **Django** with basic modules database and deployment scripts on top of AdminLTE design.
 
